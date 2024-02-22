@@ -21,4 +21,4 @@ Alex Geer
 ![Screenshot of the app](images/screenshot.png)
 
 ## Link to deployed page
-https://ag-bootcamp-umn.github.io/group-project-one/
+https://ms-meredith-mcd.github.io/Project-Cocktail/
