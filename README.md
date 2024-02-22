@@ -17,6 +17,9 @@ Jonathan Blom
 Austin Ries
 Alex Geer
 
+## Credits
+This code was created by myself and the contributors listed above during the University of Minnesota Winter 2023-2024 Full Stack Coding Bootcamp. We were not supplied with any starting code. We did receive assistance from our instructor Gary Almes and the TA Katy Vincent. 
+
 ## Screenshot
 ![Screenshot of the app](images/screenshot.png)
 
