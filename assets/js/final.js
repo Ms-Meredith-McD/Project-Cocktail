@@ -1,4 +1,4 @@
-// LOGIC FOR DISPLAYING THE FINAL PAGE
+// LOGIC FOR THE FINAL PAGE
 
 // Getting the API search parameters
 const projectCocktail = JSON.parse(localStorage.getItem('projectCocktail'));
