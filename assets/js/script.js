@@ -126,7 +126,7 @@ $(document).ready(function () {
                 // This compares the fetchCount (number of completed AJAX requests) to the length of the ingredients array.
                 // If the number of completed requests equals the number of ingredients, it means all ingredient data has been fetched.
                 if (fetchCount === ingredients.length) {
-                     
+
                     // This line is creating a new array, 'filteredCocktails', containing only the drinks that match a specific criteria.
                     // 'Object.values(allCocktails)' converts the allCocktails object into an array of its values (the cocktail data).
                     // The filter method is used to keep only those drinks that appear in all ingredient results.
